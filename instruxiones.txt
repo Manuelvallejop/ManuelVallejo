@@ -2,3 +2,4 @@ Hola mundo:
 crear el repo local (Directorio / file.py)
 iniciar el repo local= git init
 crear el repositorio online 
+sincronizar con el repo en github =  
